@@ -19,5 +19,5 @@ This app is covered by a MIT license. For more information please checkout this 
 ## Contributing
 You can contribute with a pull request on the Github repo.
 ## Links
-  - Github: https://github.com/Zdavis92/README-Generator
+  - Github: https://github.com/Zdavis92/e-commerce
   - Video walkthough: https://drive.google.com/file/d/1ezMg5yRjPSolwcuzaxb2n5iLka_80mQp/view
